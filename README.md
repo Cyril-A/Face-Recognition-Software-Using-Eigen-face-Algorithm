@@ -1,1 +1,1 @@
-# Face-Regonition-Software-Using-Eigen-face-Algorithm
+# Face-Recognition-Software-Using-Eigen-face-Algorithm
